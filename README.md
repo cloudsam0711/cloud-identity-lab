@@ -50,8 +50,7 @@ This project reflects core identity and access management skills used in roles l
 
 **Sam Glasper**  
 📧 sam.glasper30@gmail.com
-💼 LinkedIn: linkedin.com/in/samglasper
-https://linkedin.com/in/samglasper 
+💼 LinkedIn: https://linkedin.com/in/samglasper 
 
 ---
 
