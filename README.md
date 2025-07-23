@@ -27,6 +27,8 @@ This project showcases a fully functional **Active Directory Domain Services (AD
 ## 📸 Screenshots
 
 A PDF portfolio has been created to visually document the lab build:
+📎 [Download the Lab Showcase PDF](ActiveDirectory_Lab_Showcase_SamGlasper.pdf)
+
 
 Contents include:
 - Server Manager roles dashboard
