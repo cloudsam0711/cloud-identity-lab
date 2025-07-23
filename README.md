@@ -28,8 +28,6 @@ This project showcases a fully functional **Active Directory Domain Services (AD
 
 A PDF portfolio has been created to visually document the lab build:
 
-📎 
-
 Contents include:
 - Server Manager roles dashboard
 - Active Directory Users and Computers (OU, User, Group)
